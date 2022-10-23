@@ -13,4 +13,18 @@ __pycache__
 # archivos de configuración
 *.cfg
 
-venv
+# Virtual Environment
+.venv
+env
+ENV
+/venv/
+/ENV/
+/env/
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydev_runfiles/pydev_runfiles_xml_rpc.py
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/__init__.py
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/__init__.py
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/__main__pydevd_gen_debug_adapter_protocol.py
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/debugProtocol.json
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/debugProtocolCustom.json
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/pydevd_base_schema.py
+venv/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/pydevd_schema.py
