@@ -1,0 +1,16 @@
+.vscode
+
+# Python ignore
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# archivos txt
+*.txt
+
+# archivos de configuración
+*.cfg
+
+venv
